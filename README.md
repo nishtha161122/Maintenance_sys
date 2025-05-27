@@ -5,7 +5,7 @@
 
 ### 1. `Date.py`
 - Adds a **date column** to the dataset (`dataset_machine.csv`).
-- Date range: `1998-01-01` to `2025-12-31` (daily records).
+- Date range: `1998-01-10` to `2025-05-27` (daily records).
 - Appends this column to the original dataset.
 
 ---
